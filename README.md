@@ -4,6 +4,14 @@
 - 🌱 Currently learning ci and AWS
 - 🎓 Master of Environmental and Information Studies
 
+# now creating
+- [automatic music generation app based on movie(2021/11 ~ ](https://github.com/thetalemon/movie2music)
+
+# my products ( only in Japanese )
+- [portfolio](https://manasas.dev/) / [repository](https://github.com/thetalemon/manasandbox)
+- [blog](https://blog.manasas.dev/) / [repository](https://github.com/thetalemon/manasblog)
+- [eyecatch generator](https://eyecatch.manasas.dev/) / [repository](https://github.com/thetalemon/eye-catch-creator)
+
 # skills
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
