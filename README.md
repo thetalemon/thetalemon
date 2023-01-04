@@ -48,4 +48,6 @@ Last Updated on 1/4/2023, 12:45:31 PM
 - [React でp5.jsのギャラリーサイト作る&lpar; + Vite, React Router, Vercel &rpar;](https://zenn.dev/thetalemon/articles/46d4ae2561222c)
 - [Svelte, SolidJSを試してみた所感](https://zenn.dev/thetalemon/articles/3c55a60a1de6ae)
 - [React 18&lpar;Next.js&rpar;でGSAPする](https://zenn.dev/thetalemon/articles/f759b1acd0053a)
+- [Stable DiffusionをVSCode + Jupyter Notebookで動かす](https://zenn.dev/thetalemon/articles/ecd01b2f9552e6)
+- [AWS SAA合格記](https://zenn.dev/thetalemon/articles/82428c13371964)
 <!-- BLOG-POST-LIST:END -->
