@@ -42,7 +42,7 @@ Last Updated on 1/4/2023, 12:45:31 PM
 [![trophy](https://github-profile-trophy.vercel.app/?username=thetalemon&theme=dracula&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-# blog posts
+# Zenn posts
 <!-- BLOG-POST-LIST:START -->
 - [Vite + React + SSRしてページごとOGPを有効にする](https://zenn.dev/thetalemon/articles/1ca7835954c059)
 - [React でp5.jsのギャラリーサイト作る&lpar; + Vite, React Router, Vercel &rpar;](https://zenn.dev/thetalemon/articles/46d4ae2561222c)
