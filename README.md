@@ -34,5 +34,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thetalemon&show_icons=true&theme=synthwave&hide=contribs,stars)
 
-# trophies
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=thetalemon&theme=dracula&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+# blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
