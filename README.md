@@ -42,4 +42,8 @@
 
 # blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Vite + React + SSRしてページごとOGPを有効にする](https://zenn.dev/thetalemon/articles/1ca7835954c059)
+- [React でp5.jsのギャラリーサイト作る&lpar; + Vite, React Router, Vercel &rpar;](https://zenn.dev/thetalemon/articles/46d4ae2561222c)
+- [Svelte, SolidJSを試してみた所感](https://zenn.dev/thetalemon/articles/3c55a60a1de6ae)
+- [React 18&lpar;Next.js&rpar;でGSAPする](https://zenn.dev/thetalemon/articles/f759b1acd0053a)
 <!-- BLOG-POST-LIST:END -->
