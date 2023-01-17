@@ -51,3 +51,9 @@ Last Updated on 1/4/2023, 12:45:31 PM
 - [React 18&lpar;Next.js&rpar;でGSAPする](https://zenn.dev/thetalemon/articles/f759b1acd0053a)
 - [Stable DiffusionをVSCode + Jupyter Notebookで動かす](https://zenn.dev/thetalemon/articles/ecd01b2f9552e6)
 <!-- BLOG-POST-LIST:END -->
+
+# SNS
+- <a rel="me" href="https://fedibird.com/@thetalemon">Mastodon(Main)</a>
+- <a rel="me" href="https://photodn.net/@thetalemon">Mastodon(Photo)</a>
+- <a rel="me" href="https://gamelinks007.net/@thetalemon">Mastodon(Draw / Craft)</a>
+- [Twitter](https://twitter.com/thetalemon)
