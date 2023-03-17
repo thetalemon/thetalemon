@@ -44,12 +44,12 @@ Last Updated on 3/1/2023, 12:54:58 AM
 
 # Zenn posts
 <!-- BLOG-POST-LIST:START -->
+- [Ubuntuのbashから自分の名前を消したい](https://zenn.dev/thetalemon/articles/40cfc5afa9c306)
 - [Githubプロフィールをデコりながら覚えるGithub Actions入門](https://zenn.dev/thetalemon/articles/518153549f917e)
 - [Vite + React + SSRしてページごとOGPを有効にする](https://zenn.dev/thetalemon/articles/1ca7835954c059)
 - [React でp5.jsのギャラリーサイト作る&lpar; + Vite, React Router, Vercel &rpar;](https://zenn.dev/thetalemon/articles/46d4ae2561222c)
 - [Svelte, SolidJSを試してみた所感](https://zenn.dev/thetalemon/articles/3c55a60a1de6ae)
 - [React 18&lpar;Next.js&rpar;でGSAPする](https://zenn.dev/thetalemon/articles/f759b1acd0053a)
-- [Stable DiffusionをVSCode + Jupyter Notebookで動かす](https://zenn.dev/thetalemon/articles/ecd01b2f9552e6)
 <!-- BLOG-POST-LIST:END -->
 
 # SNS
