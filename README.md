@@ -44,12 +44,12 @@ Last Updated on 4/1/2023, 12:44:15 AM
 
 # Zenn posts
 <!-- BLOG-POST-LIST:START -->
+- [Next.js + headlessCMSでブログを作るのに実装しておきたい5要素まとめ](https://zenn.dev/thetalemon/articles/5469b505edd638)
 - [Newtの好きなところ7選](https://zenn.dev/thetalemon/articles/4b859afa09b5e8)
 - [Ubuntuのbashから自分の名前を消したい](https://zenn.dev/thetalemon/articles/40cfc5afa9c306)
 - [Githubプロフィールをデコりながら覚えるGithub Actions入門](https://zenn.dev/thetalemon/articles/518153549f917e)
 - [Vite + React + SSRしてページごとOGPを有効にする](https://zenn.dev/thetalemon/articles/1ca7835954c059)
 - [React でp5.jsのギャラリーサイト作る&lpar; + Vite, React Router, Vercel &rpar;](https://zenn.dev/thetalemon/articles/46d4ae2561222c)
-- [Svelte, SolidJSを試してみた所感](https://zenn.dev/thetalemon/articles/3c55a60a1de6ae)
 <!-- BLOG-POST-LIST:END -->
 
 # SNS
