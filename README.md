@@ -35,8 +35,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thetalemon&show_icons=true&theme=synthwave&hide=contribs,stars)
 
 <!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/40LFLL5" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.46&b=2.85&i=3.53&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="400" ></a>  
-Last Updated on 5/1/2023, 12:45:38 AM
+<a href="https://lapras.com/public/40LFLL5" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.46&b=2.85&i=3.54&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="400" ></a>  
+Last Updated on 6/1/2023, 1:00:38 AM
 <!--END_SECTION:lapras-card-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=thetalemon&theme=dracula&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
