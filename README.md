@@ -35,8 +35,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thetalemon&show_icons=true&theme=synthwave&hide=contribs,stars)
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/40LFLL5" target="_blank" rel="noopener noreferrer"><img alt="40LFLL5's scores on LAPRAS are as follows: Engineering: 3.75 out of 5.0, Business: 3.36 out of 5.0, Influence: 3.58 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.75&b=3.36&i=3.58&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="400" ></a>  
-Last Updated on 4/1/2024, 12:43:27 AM</p>
+<p ><a href="https://lapras.com/public/40LFLL5" target="_blank" rel="noopener noreferrer"><img alt="40LFLL5's scores on LAPRAS are as follows: Engineering: 3.76 out of 5.0, Business: 3.36 out of 5.0, Influence: 3.58 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.76&b=3.36&i=3.58&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=en" width="400" ></a>  
+Last Updated on 5/1/2024, 12:43:32 AM</p>
 <!--END_SECTION:lapras-card-->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=thetalemon&theme=dracula&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
