@@ -4,13 +4,13 @@
 - 🌱 Currently learning ci and AWS
 - 🎓 Master of Environmental and Information Studies
 
-# now creating
-- [automatic music generation app based on movie(2021/11 ~ ](https://github.com/thetalemon/movie2music)
+# created
 
 # my products ( only in Japanese )
 - [portfolio](https://manasas.dev/) / [repository](https://github.com/thetalemon/manasandbox)
 - [blog](https://blog.manasas.dev/) / [repository](https://github.com/thetalemon/manasblog)
 - [eyecatch generator](https://eyecatch.manasas.dev/) / [repository](https://github.com/thetalemon/eye-catch-creator)
+- [automatic music generation app based on movie(2021/11 ~ ](https://github.com/thetalemon/movie2music)
 
 # skills
 <p align="left"> 
