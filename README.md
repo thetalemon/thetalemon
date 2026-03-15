@@ -3,7 +3,10 @@
 - 🌱 Currently learning ci and AWS
 - 🎓 Master of Environmental and Information Studies
 
-# created
+# SNS
+- [Bluesky](https://bsky.app/profile/manasas.dev)
+- [mixi2](https://mixi.social/@manasas)
+- [Instagram](https://www.instagram.com/manasas.photo/)
 
 # my products ( only in Japanese )
 - [portfolio](https://manasas.dev/) / [repository](https://github.com/thetalemon/manasandbox)
