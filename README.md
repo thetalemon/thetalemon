@@ -1,6 +1,5 @@
 # about me
 - 👩‍💻 Front-end engineer in Japan
-- 🌱 Currently learning ci and AWS
 - 🎓 Master of Environmental and Information Studies
 
 # SNS
